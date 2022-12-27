@@ -1,6 +1,6 @@
 # Docker Demo
 
-Source code for an introduction to Docker presentation. On the presentation, we containerised a basic Spring application with Java 17 and Maven.
+Source code from an introductory presentation on Docker that I made. As a hands-on, we containerised a basic Spring application with Java 17 and Maven.
 
 
 ## Instructions
